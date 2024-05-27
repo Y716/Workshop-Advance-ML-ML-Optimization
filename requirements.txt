@@ -3,6 +3,3 @@ lightgbm
 catboost
 hdbscan
 optuna
-cudf
-cuml
-numba
